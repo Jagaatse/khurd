@@ -120,7 +120,6 @@
         position: relative;
       }
       .news{
-        font-family: rs-regular
         width: 90%;
         color: white;
         position: absolute;
@@ -130,7 +129,8 @@
         text-align: center;
       }
       .news h2{
-        font-family: rs-regular
+        font-style: italic;    
+        font-family: rs-regular;
         font-size: 32px;
       }
 
