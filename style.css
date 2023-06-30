@@ -120,6 +120,7 @@
         position: relative;
       }
       .news{
+        font-family: rs-regular
         width: 90%;
         color: white;
         position: absolute;
