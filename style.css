@@ -1,8 +1,7 @@
 
       /*HEADER*/
       .header{
-        font-family: rs-regular;
-        font-weight: 700;
+        
         min-height: 5vh;
         width: 100;
         background-color: rgb(22, 110, 110);
@@ -11,6 +10,8 @@
         position: relative;
       }
       nav{
+        font-family: rs-regular;
+        font-weight: 700;
         display: flex;
         padding: 2% 6%;
         justify-content: space-between;
