@@ -88,6 +88,7 @@
         color: white;
       }
       .text-box p{
+        font-family: rs-regular;
         margin: 10px 0 40px;
         font-size: 20px;
         color: #fff;
